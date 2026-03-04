@@ -44,13 +44,18 @@ Learners will be able to:
 | Duration | What                    | How or Why                                                     |
 | -------- | ----------------------- | -------------------------------------------------------------- |
 | - 5mins  | Start zoom session      | So that learners can join early and start class on time.       |
-| 20 mins  | Activity                | Recap on self-study and prework materials.                     |
-| 40 mins  | Concept                 | Part 1: Data Encoding Formats.                                 |
+| 15 mins  | Activity                | Recap on self-study and prework materials.                     |
+| 40 mins  | Concept                 | Part 1.0: Data Encoding Formats                                |
 |          | **1 HR MARK**           |
-| 20 mins  | Concept                 | Part 1: Data Encoding Formats.                                 |
-| 10 mins  | Break                   |                                                                |
-| 30 mins  | Code-along              | Part 2: Hands-on with data encoding, decoding and flow via RPC |
+| 15 mins  | Concept                 | Part 1.1: Data Encoding Binary Format: Apache Thrift           |
+| 15 mins  | Code-along              | Part 2.1: Hands-on with data encoding: Apache Thrift           |
+| 15 mins  | Concept                 | Part 1.2: Data Encoding Binary Format: Protocol Buffers        |
+| 15 mins  | Code-along              | Part 2.2: Hands-on with data encoding: Protobuf                |
 |          | **2 HR MARK**           |
-| 50 mins  | Code-along              | Part 2: Hands-on with data encoding, decoding and flow via RPC |
-| 10 mins  | Briefing / Q&A          | Brief on references, assignment, quiz and Q&A.                 |
+| 5 mins   | Break                   |                                                                |
+| 15 mins  | Concept                 | Part 1.3: Data Encoding Binary Format: Apache Avro             |
+| 10 mins  | Code-along              | Part 2.3: Hands-on with data encoding: Apache Avro             |
+| 15 mins  | Concept                 | Part 1.4: Data Encoding Binary Format: Apache Parquet/ORC/PyArrow |
+| 10 mins  | Code-along              | Part 2.4: Hands-on with data encoding: Apache Parquet/ORC/PyArrow |
+| 10 mins  | Briefing / Q&A          | Exit Ticket & Q&A.                 |
 |          | **END CLASS 3 HR MARK** |
